@@ -1,6 +1,8 @@
 div {
     background-color: red;
     color:white;
-    padding-left: 10vw;
-    font-size: x-large;
+    /* padding-left: 10vw; */
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
 }
